@@ -16,11 +16,11 @@ I contribute mostly to AI infrastructure: observability, vector search, distribu
 <!-- oss:start -->
 | Project | What I work on | PRs |
 |---|---|---|
-| [**OpenMed**](https://github.com/maziyarpanahi/openmed/pulls?q=is%3Apr+author%3Apardeep-singh) · healthcare NLP and de-identification | ICD-10-CM, RxNorm and HPO linkers, FHIR builders, negation scope, synthetic HL7 v2 and C-CDA data with PHI ground truth, multilingual de-identification, privacy metrics; federated fine-tuning with differential privacy in review | 37 merged · 50 in review |
-| [**Arize OpenInference**](https://github.com/Arize-ai/openinference/pulls?q=is%3Apr+author%3Apardeep-singh) · OpenTelemetry for AI | Span handling for Agno and OpenAI Agents, google-genai output limits, GenAI semantic conventions | 4 merged · 6 in review |
-| [**Agent Orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator/pulls?q=is%3Apr+author%3Apardeep-singh) · fleets of coding agents | Worktree and session lifecycle fixes, tmux and Windows support, Claude Code and Codex adapters | 6 merged · 13 in review |
-| [**Milvus**](https://github.com/milvus-io/milvus/pulls?q=is%3Apr+author%3Apardeep-singh) · vector database | NGRAM regex planning, expression-rewriter optimisations, exact `DISTINCT` | 3 merged · 7 in review |
-| [**Arize Phoenix**](https://github.com/Arize-ai/phoenix/pulls?q=is%3Apr+author%3Apardeep-singh) · AI observability and evals | REST endpoint for token counts and costs, `px` CLI commands, Python client resources | 1 merged · 13 in review |
+| [**OpenMed**](https://github.com/maziyarpanahi/openmed/pulls?q=is%3Apr+author%3Apardeep-singh) · healthcare NLP and de-identification | ICD-10-CM, RxNorm and HPO linkers, FHIR builders, negation scope, synthetic HL7 v2 and C-CDA data with PHI ground truth, multilingual de-identification, privacy metrics; federated fine-tuning with differential privacy in review | 59 merged · 28 in review |
+| [**Arize OpenInference**](https://github.com/Arize-ai/openinference/pulls?q=is%3Apr+author%3Apardeep-singh) · OpenTelemetry for AI | Span handling for Agno and OpenAI Agents, google-genai output limits, GenAI semantic conventions | 5 merged · 4 in review |
+| [**Agent Orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator/pulls?q=is%3Apr+author%3Apardeep-singh) · fleets of coding agents | Worktree and session lifecycle fixes, tmux and Windows support, Claude Code and Codex adapters | 7 merged · 11 in review |
+| [**Milvus**](https://github.com/milvus-io/milvus/pulls?q=is%3Apr+author%3Apardeep-singh) · vector database | NGRAM regex planning, expression-rewriter optimisations, exact `DISTINCT` | 4 merged · 5 in review |
+| [**Arize Phoenix**](https://github.com/Arize-ai/phoenix/pulls?q=is%3Apr+author%3Apardeep-singh) · AI observability and evals | REST endpoint for token counts and costs, `px` CLI commands, Python client resources | 2 merged · 12 in review |
 | [**Ray**](https://github.com/ray-project/ray/pulls?q=is%3Apr+author%3Apardeep-singh) · distributed compute for AI | Ray Serve cancellation and shutdown, Ray Jobs submission, `uv run` parsing | 2 merged · 12 in review |
 | [**scikit-learn**](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Apardeep-singh) | Examples for the PrecisionRecall and ConfusionMatrix displays | 2 merged |
 
